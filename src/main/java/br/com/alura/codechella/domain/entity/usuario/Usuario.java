@@ -1,7 +1,6 @@
 package br.com.alura.codechella.domain.entity.usuario;
 
 import br.com.alura.codechella.domain.Endereco;
-import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
 
