@@ -13,8 +13,9 @@ public class CriarUsuario {
         this.repositorio = repositorio;
     }
 
-
     public Usuario cadastrarUsuario(Usuario usuario) {
+        //usando a interface
         return repositorio.cadastrarUsuario(usuario);
     }
+
 }
