@@ -6,7 +6,6 @@ import br.com.alura.codechella.domain.entity.usuario.Usuario;
 
 public class CriarUsuario {
 
-    // Injeção da interface, quando usamos o final precisamos passar um construtor
     private final RepositorioDeUsuario repositorio;
 
     public CriarUsuario(RepositorioDeUsuario repositorio) {

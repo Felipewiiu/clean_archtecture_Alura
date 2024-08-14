@@ -77,3 +77,9 @@ Para definir bem os casos de uso dentro da arquitetura limpa, você pode seguir 
 ## Gateways o que é?
 
 São os pontos de entradas , onde se define como será posteriormente a persistência de dados
+
+## Passo a passo de como implementar a arquitetura lima
+
+1. criar um `use case` que utilize elementos da camada de dominio
+2. Injetar uma interface (gateway) no `use case`
+3. 
