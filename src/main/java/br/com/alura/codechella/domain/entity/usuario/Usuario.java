@@ -3,11 +3,13 @@ package br.com.alura.codechella.domain.entity.usuario;
 import br.com.alura.codechella.domain.Endereco;
 import lombok.Getter;
 import lombok.Setter;
+import lombok.ToString;
 
 import java.time.LocalDate;
 
 @Getter
 @Setter
+@ToString
 public class Usuario {
 
     private Long id;
