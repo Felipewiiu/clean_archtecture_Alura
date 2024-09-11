@@ -82,4 +82,7 @@ São os pontos de entradas , onde se define como será posteriormente a persist�
 
 1. criar um `use case` que utilize elementos da camada de dominio
 2. Injetar uma interface (gateway) no `use case`
-3. 
+
+## Diagrama de fluxo de arquitetura limpa
+
+![img.png](img.png)
